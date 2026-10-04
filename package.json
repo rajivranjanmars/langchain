@@ -26,5 +26,9 @@
     "next": {
       "postcss": "8.5.23"
     }
+  },
+  "author": {
+    "name": "rajivranjanmars",
+    "url": "https://rajivranjana.in"
   }
 }
