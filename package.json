@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "eslint": "^8",
-    "eslint-config-next": "15.5.27"
+    "eslint-config-next": "16.3.8"
   },
   "overrides": {
     "next": {
