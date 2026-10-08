@@ -11,7 +11,7 @@
   "dependencies": {
     "@langchain/community": "1.1.29",
     "@langchain/core": "1.2.14",
-    "@langchain/openai": "1.6.0",
+    "@langchain/openai": "1.6.2",
     "@supabase/supabase-js": "2.117.2",
     "langchain": "1.5.14",
     "next": "16.3.8",
